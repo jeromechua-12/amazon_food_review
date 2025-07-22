@@ -1,4 +1,4 @@
-# Sentiment Analysis with RoBERTa
+# Sentimental Analysis with RoBERTa
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
 ![project-type](https://img.shields.io/badge/project_type-NLP-orange)
 ![python](https://img.shields.io/badge/python-3.12.10-blue)
