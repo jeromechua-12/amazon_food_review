@@ -4,7 +4,7 @@
 ![python](https://img.shields.io/badge/python-3.12.10-blue)
 
 This project performs **sentiment analysis** on the
-[Amazon Fine Food Reviews dataset](https://www.kaggle.com/datasets/snap/amazon-fine-food-review)
+[Amazon Fine Food Reviews dataset](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
 using a fine-tuned **RoBERTa** model from Hugging Face's Transformers library.
 
 ## Project Purpose
